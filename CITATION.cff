@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these replication materials, please cite the accompanying manuscript and this repository."
+title: "Replication materials for Role-Linked Participation and Cross-Deterrence in Asymmetric Cartels"
+type: software
+authors:
+  - family-names: "Arai"
+    given-names: "Koki"
+    orcid: "https://orcid.org/0000-0002-6907-4046"
+repository-code: "https://github.com/Koki-Arai/role-linked-participation"
+version: "v6"
+date-released: 2026-08-23
+license: MIT
