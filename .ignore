@@ -1,0 +1,37 @@
+# ---- Python -------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ---- LaTeX build artefacts ----------------------------------------------
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# ---- Archives and scratch files -----------------------------------------
+*.zip
+*.tar.gz
+*.tmp
+*.bak
+*~
+
+# ---- Editor and OS --------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
