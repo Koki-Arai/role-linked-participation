@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: >-
+  If you use this replication material, please cite both the software and the
+  accompanying manuscript.
+title: >-
+  Replication material for "Role-Linked Participation in Cartels:
+  Intermediaries, Pivotality, and the Timing of Enforcement"
+abstract: >-
+  Deterministic Python script that reproduces every numerical result reported
+  in the manuscript: the general timing theorem for sequential complementary
+  participation (Theorem 1), the recognition-wedge identity, the cross-
+  deterrence and burden-timing comparative statics, the operational-
+  transparency geometry, the tipping thresholds and their envelope
+  derivatives, the eliminability dichotomy, and the calibrated illustration.
+  No data are used; no random seed is required.
+type: software
+version: v11
+date-released: "2026-09-07"
+authors:
+  - family-names: Arai
+    given-names: Koki
+    orcid: "https://orcid.org/0000-0002-6907-4046"
+    affiliation: Faculty of Business Studies, Kyoritsu Women's University
+    email: koki.arai@nifty.ne.jp
+repository-code: "https://github.com/Koki-Arai/role-linked-participation"
+license: MIT
+keywords:
+  - cartels
+  - facilitators
+  - intermediaries
+  - antitrust enforcement
+  - asymmetric participation
+  - sanction design
+preferred-citation:
+  type: unpublished
+  title: >-
+    Role-Linked Participation in Cartels: Intermediaries, Pivotality, and the
+    Timing of Enforcement
+  authors:
+    - family-names: Arai
+      given-names: Koki
+      orcid: "https://orcid.org/0000-0002-6907-4046"
+      affiliation: Faculty of Business Studies, Kyoritsu Women's University
+  year: 2026
+  notes: Manuscript.
